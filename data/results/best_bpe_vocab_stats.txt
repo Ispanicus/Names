@@ -1,0 +1,11 @@
+                             bits_per_word  bpe_vocab
+BPE_family    family                                 
+Euro Germanic Euro Germanic             21        448
+Euro Romance  Euro Romance              23        384
+Other         Other                     23        529
+Euro Germanic Euro Romance              27        224
+              Other                     25        233
+Euro Romance  Euro Germanic             24        416
+              Other                     26        221
+Other         Euro Germanic             23        448
+              Euro Romance              27        384

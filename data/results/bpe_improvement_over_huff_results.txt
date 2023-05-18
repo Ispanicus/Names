@@ -1,0 +1,5 @@
+family         Euro Germanic  Euro Romance  Other
+BPE_family                                       
+Euro Germanic             16             9      5
+Euro Romance              10            18      2
+Other                     10             9     11

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools >= 65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "names"
+version = "0.1.0"
+readme = "README.rst"
+requires-python = ">=3.10"
+
+dependencies = [
+    "toolz",
+    "holoviews",
+    "hvplot",
+    "pyarrow",
+    "unidecode",
+    "country_converter",
+    "iso-639",
+    "nltk",
+	"scipy",
+	"tokenizers",
+	"transformers",
+	"pandas",
+	"tqdm",
+	"scikit-learn",
+    "alphabet-detector"
+]

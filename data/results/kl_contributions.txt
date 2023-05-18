@@ -1,0 +1,21 @@
+KL from Euro Germanic
+United Kingdom    0.06
+Netherlands       0.05
+Sweden            0.04
+Germany           0.04
+KL from Euro Romance
+France      0.13
+Italy       0.08
+Portugal    0.08
+Spain       0.04
+KL from Other
+Poland          0.23
+Morocco         0.23
+Botswana        0.22
+Hungary         0.18
+South Africa    0.18
+India           0.15
+Mauritius       0.13
+Indonesia       0.13
+Croatia         0.13
+Nigeria         0.13

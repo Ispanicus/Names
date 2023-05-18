@@ -1,0 +1,6 @@
+                    mean kl                   
+family        Euro Germanic Euro Romance Other
+target_dist                                   
+Euro Germanic          0.05         0.16  0.13
+Euro Romance           0.07         0.08  0.12
+Other                  0.09         0.15  0.13

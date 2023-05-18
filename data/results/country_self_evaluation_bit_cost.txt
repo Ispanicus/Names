@@ -1,0 +1,6 @@
+              bits_per_word
+encoding                   
+bpe               20.015537
+huff_letter       26.871427
+huff_name          8.904656
+naive_letter      33.026836

@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints/
+**/*.egg-info
+**/__pycache__/
+**/raw_country_names
+**/parquet
+data/data
+parquet/*
+data/??.csv
+flite-2.0.5-current/*
+Advanced_Applied_Stats.pdf
+data/corpus
